@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IArentBen
+- 👀 I’m interested in scripting and running a server for my famjam
+- 🌱 I’m currently learning scripting and automation for my server
